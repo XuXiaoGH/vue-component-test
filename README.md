@@ -1,6 +1,6 @@
 # vue-component-test
 
-> A Vue.js project
+> 一个测试vue组件复用导致重复响应的研究小李子
 
 ## Build Setup
 
